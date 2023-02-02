@@ -30,3 +30,4 @@ This list is sorted in the order that organizations were added to it.
 | Organization | Contact | Description of Use |
 | ------------ | ------- | ------------------ |
 | [Upbound](https://upbound.io) | @jbw976 | Main control plane and infrastructure management solution for [Upbound Cloud](https://upbound.io). Crossplane powers the internal developer platforms for all dev, staging, and production environments. |
+| MyCompany | employee | crossplane is in place |
